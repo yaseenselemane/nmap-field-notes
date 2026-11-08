@@ -6,7 +6,7 @@ My notes from learning **nmap**, the standard tool for finding out which devices
 >
 > **Only scan networks you own or have written permission to test.** Scanning other people's networks can break their rules and, in many countries, the law.
 
-Part of my networking labs: [ping and traceroute](https://github.com/yaseenselemane/ping-and-traceroute) · **nmap** · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · [subnet calculator](https://github.com/yaseenselemane/subnet-calculator) · [vantage](https://github.com/yaseenselemane/vantage)
+Part of my networking labs: [ping and traceroute](https://github.com/yaseenselemane/ping-and-traceroute) · **nmap** · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · [Wireshark](https://github.com/yaseenselemane/wireshark-packet-lab) · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · [subnet calculator](https://github.com/yaseenselemane/subnet-calculator) · [vantage](https://github.com/yaseenselemane/vantage)
 
 ---
 
